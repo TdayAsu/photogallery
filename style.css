@@ -14,7 +14,7 @@ h1 {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    color: aquamarine;
+    color: #007d7b;
     padding: 10px;
     margin-right: 60px;
     text-transform: uppercase;
@@ -221,12 +221,12 @@ h1 {
     height: 25px;
 }
 .contact-form input::placeholder {
-    color: #219C90;
+    color: #007d7b;
     opacity: 1; 
     font-size: 18px;
 }
 .contact-form textarea::placeholder {
-    color: #219C90; 
+    color: #007d7b; 
     opacity: 1; 
     font-size: 18px;
 }
@@ -234,7 +234,7 @@ h1 {
     padding: 10px;
     border: none;
     border-radius: 4px;
-    background-color: #219C90; 
+    background-color: #007d7b; 
     color: #fff; 
     font-size: 16px;
     cursor: pointer;
